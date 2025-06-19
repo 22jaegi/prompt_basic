@@ -1,3 +1,7 @@
 .venv
 uv.lock
+<<<<<<< HEAD
 langchain_cache.db
+=======
+.env
+>>>>>>> langchain-test
