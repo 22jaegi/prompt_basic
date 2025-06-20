@@ -11,6 +11,9 @@ dependencies = [
     "langchain>=0.3.25",
     "langchain-community>=0.3.25",
     "langchain-openai>=0.3.24",
+    "langchain-pinecone>=0.2.8",
     "notebook>=7.4.3",
+    "pinecone>=7.2.0",
+    "pinecone-client>=6.0.0",
     "python-dotenv>=1.1.0",
 ]
